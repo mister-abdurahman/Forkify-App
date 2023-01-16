@@ -9,5 +9,5 @@ The Application has an interactive UI with enabled pagination, image layout, des
 
 Summary of the functionalities:
 1. Search for a meal to get all its information
-2. Bookmark a meal
+2. Bookmark a meal of your choice
 3. Create a meal and bookmark it
