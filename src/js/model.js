@@ -156,5 +156,3 @@ export const uploadRecipe = async function (newRecipe) {
     throw err;
   }
 };
-
-// CDN => Content Delivery Network
